@@ -15,7 +15,7 @@ Get request
 In this exercise I make a GET request to the Datamuse API to search for words that rhyme! 
 
 ## Screenshots
-![Get-request](https://github.com/saramazal/get-request/blob/main/Get-request.png)
+![Get-request](https://github.com/saramazal/get-request-rhyme/blob/main/Get-request.png)
 
 ## Technologies
 * VSCode

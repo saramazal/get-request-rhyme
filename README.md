@@ -23,6 +23,7 @@ In this exercise I make a GET request to the Datamuse API to search for words th
 * GitHub
 * [Google fonts](https://fonts.google.com/?category=Sans+Serif,Display,Monospace&preview.text=Word%20Smith&preview.text_type=custom)
 * [Colorinspire Pallets](https://colorinspire.webflow.io/)
+* [Datamuse](https://www.datamuse.com/api/)
 
 ## Setup
 Setup your local environement /   GET REQUEST Project [DEMO](https://saramazal.github.io/get-request-rhyme/)

@@ -28,7 +28,6 @@ In this exercise I make a GET request to the Datamuse API to search for words th
 ## Setup
 Setup your local environement /   GET REQUEST Project [DEMO](https://saramazal.github.io/get-request-rhyme/)
 
-
 ## Status
 Project is:  _finished_
 
